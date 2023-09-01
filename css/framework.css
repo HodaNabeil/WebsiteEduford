@@ -1,0 +1,33 @@
+.p-10 {
+    padding: 10px;
+}
+.m-10 {
+    margin: 10px;
+}
+.m-20 {
+    margin: 20px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.text-c {
+    text-align: center;
+}
+.text-l {
+    text-align: left;
+}
+.c-777 {
+    color: #777;
+}
+.line-height {
+    line-height: 1.7;
+}
